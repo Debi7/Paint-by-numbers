@@ -1,3 +1,1 @@
-# Paint-by-numbers
-
 # React + TypeScript + Vite
